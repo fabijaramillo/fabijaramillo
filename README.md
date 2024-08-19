@@ -10,7 +10,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
-## Sobre mi
+## About Me
 
 - ⭐ Github Star ⭐ 
 - 📲 Mobile developer
