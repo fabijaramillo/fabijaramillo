@@ -23,7 +23,7 @@
 - 💡  I like to explore new technologies and develop software solutions and quick hacks.
 - 🎓  I am currently studying computer engineering and I am in the ninth semester.[Institución Universitaria Colegio Mayor del Cauca](http://unimayor.edu.co/web/)
 - ✉️  You can shoot me an email at fabianjaramillo@unimayor.edu.co! I'll try to respond as soon as I can.
-
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
   ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
