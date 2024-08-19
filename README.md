@@ -18,7 +18,7 @@
 - ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
 - 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
 - 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
-- 🎓 Studies Tecnologo en Desarrollo De Software [Institución Universitaria Colegio Mayor del Cauca]([[http://unimayor.edu.co/web/]
+- 🎓 Studies Tecnologo en Desarrollo De Software [Institución Universitaria Colegio Mayor del Cauca](http://unimayor.edu.co/web/)
 - 🏡'Lives in Colombia "Popayan - Cauca"
 - 💡  I like to explore new technologies and develop software solutions and quick hacks.
 - 🎓  I am currently studying computer engineering and I am in the ninth semester.[http://unimayor.edu.co/web/]
