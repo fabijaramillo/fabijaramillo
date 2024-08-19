@@ -21,7 +21,7 @@
 - 🎓 Tecnologo en Desarrollo De Software [Institución Universitaria Colegio Mayor del Cauca]([[http://unimayor.edu.co/web/]
 <br>
 
-## Proyectos *bombitas*
+## Proyectos Desarrollados
 <table>
 <tr>
 <td width="50%">
