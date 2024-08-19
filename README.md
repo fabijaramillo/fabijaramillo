@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Fabian Jaramillo</a> 👋</h1>
 </div>
-<img src="https://github.com/user-attachments/assets/c6a90847-c0af-493f-9f11-ea6146f0dffc">
+<img src="https://github.com/user-attachments/assets/ab621f1b-8c91-4db7-8240-3610bcc1bfde">
 ![JYOj](https://github.com/user-attachments/assets/ab621f1b-8c91-4db7-8240-3610bcc1bfde)
 
 
