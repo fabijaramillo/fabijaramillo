@@ -20,6 +20,7 @@
 - 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
 - 🎓 Studies Tecnologo en Desarrollo De Software [Institución Universitaria Colegio Mayor del Cauca]([[http://unimayor.edu.co/web/]
 - 🏡'Lives in Colombia "Popayan - Cauca"
+- 💡  I like to explore new technologies and develop software solutions and quick hacks.
 <br>
 
 ## Proyectos Desarrollados
